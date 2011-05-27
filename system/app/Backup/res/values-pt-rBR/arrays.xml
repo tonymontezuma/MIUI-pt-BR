@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Dados Wi-Fi</item>
-        <item>Todos os Aplicativos</item>
+        <item>Dados wi-fi</item>
+        <item>Todos os aplicativos</item>
     </string-array>
     <string-array name="system_package_label">
         <item>SMS e MMS</item>
@@ -11,19 +11,22 @@
         <item>Contatos</item>
         <item>Histórico de chamadas</item>
         <item>Mensagens</item>
-        <item>Config. Wi-Fi</item>
-        <item>Aparência</item>
-        <item>Notas</item>
+        <item>Config. Sistema</item>
+        <item>config. Wifi</item>
+        <item>Layout Pág. Inicial</item>
+        <item>Config. alarme</item>
+		<item>Notas</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>(Dados)</item>
-        <item>(Aplicativos)</item>
-        <item>(Dados + Aplicativos)</item>
+        <item>(Aplicativo)</item>
+        <item>(Dados e aplicativo)</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Contatos</item>
         <item>Histórico de chamadas</item>
-        <item>Mensagens</item>
-        <item>Config. Wi-Fi</item>
-    </string-array>
+        <item>SMS</item>
+        <item>Config. wi-fi</item>
+        <item>Notas</item>
+		</string-array>
 </resources>
